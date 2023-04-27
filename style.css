@@ -1,0 +1,79 @@
+.logo{
+    height:60px;
+    width:60px;
+    border-style:solid;
+    border-color:orange;
+    border-radius:2px;
+    border-width:1px;
+    background-color:transparent;
+}
+.coursel-heading{
+    font-size:50px;
+    color:orangered;
+    font-weight:bold;
+    text-align:center;
+
+}
+#courselPart{
+    
+    width:100%;
+}
+.about-heading{
+    color:red;
+    font-size:32px;
+    font-weight:600;
+    font-style:oblique;
+    text-decoration:underline;
+}
+.about-bg{
+    background-color:aquamarine;
+    background-size:cover;
+}
+.about-image{
+    height:500px;
+    width:550px;
+}
+.school-heading{
+    color:brown;
+    font-size:30px
+}
+.school-description{
+    font-size:18px;
+    color:black;
+}
+.course-heading{
+    color:black;
+    font-size:40px;
+    font-weight:600;
+    text-align:center;
+    text-decoration:underline;
+}
+.list-style{
+    list-style-type:square;
+    font-size:20px;
+    color:brown;
+}
+.course-bg{
+    background-color:blanchedalmond;
+    background-size:cover;
+}
+.gallery-bg{
+    background-color:khaki;
+    background-size:cover;
+}
+.gallery-img{
+    height:400px;
+    width:400px;
+}
+.gallery-heading{
+    font-size:40px;
+    color:black;
+    text-align:center;
+    text-decoration:underline;
+}
+.contact-bg{
+    background-color:rgb(110, 110, 218);
+    background-size:cover;
+}
+
+
